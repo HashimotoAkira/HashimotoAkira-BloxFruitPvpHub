@@ -51,7 +51,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/HashimotoAkira/Hashim
 This script is protected by a custom loader system designed for security and reliability.
 
 -   **Protected Source:** The core logic is secured to prevent unauthorized copying or analysis.
--   **Smart Loading:** The loader intelligently waits for the game to be fully loaded and automatically handles prerequisites (like team selection) to prevent common startup crashes.
 -   **Clean Unload:** Ensures all components are removed from memory when the script is closed, leaving no residue.
 
 ---
