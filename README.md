@@ -38,6 +38,10 @@ This script uses a secure loader system. You only need to execute the loader scr
 2.  Open your executor in-game.
 3.  Paste and execute the script.
 
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HashimotoAkira/HashimotoAkira-BloxFruitPvpHub/refs/heads/main/BloxFruitPvpLoader"))()
+```
+
 > **Note:** The loader will handle everything automatically, including team selection if necessary. No extra steps are required for a smooth experience.
 
 ---
@@ -55,4 +59,3 @@ This script is protected by a custom loader system designed for security and rel
 ## ⚠️ Disclaimer
 
 Please use this script responsibly. The author is not responsible for any consequences resulting from its use.
-
