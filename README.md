@@ -24,9 +24,12 @@ A comprehensive combat script for Blox Fruits, designed for high performance and
 | | **FOV Circle** | Visualizes the aimbot's field of view. |
 | **Local Player** | **Movement Mods** | Infinite Geppo (Skyjump), Speed, Jump Power, Dash, and Flashstep modifiers. |
 | | **Attribute Mods** | Water Walking, Unbreakable (Kenjutsu/Observation Haki). |
+| | **Click Teleport** | Hold a key and Left Click to teleport to the mouse position. |
 | | **Anti-Stun** | Advanced hook-based anti-stun to prevent being disabled in combat. |
 | **VFX** | **Custom Fruit VFX**| Change the color of your fruit's visual effects (Rainbow, Custom Transition, Static). |
 | **Automation** | **Auto Buso/Haki** | Automatically enables Armament Haki. |
+| | **Anti-AFK** | Prevents the game from kicking you for being idle. |
+| **Misc** | **Anti-Kick** | Blocks client-side kick attempts. |
 
 ---
 
@@ -42,7 +45,7 @@ This script uses a secure loader system. You only need to execute the loader scr
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HashimotoAkira/HashimotoAkira-BloxFruitPvpHub/refs/heads/main/BloxFruitPvpLoader"))()
 ```
 
-> **Note:** The loader will handle everything automatically, including team selection if necessary. No extra steps are required for a smooth experience.
+> **Note:** For best stability, please wait 1-2 minutes after joining the game and selecting your team before executing the script. This allows the game to fully load all assets and helps prevent potential UI conflicts or errors.
 
 ---
 
