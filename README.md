@@ -1,6 +1,6 @@
 # Blox Fruits Combat Hub - Pro Edition
 
-![Version](https://img.shields.io/badge/version-3.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
 ---
@@ -28,8 +28,8 @@ A comprehensive combat script for Blox Fruits, designed for high performance and
 | | **Anti-Stun** | Advanced hook-based anti-stun to prevent being disabled in combat. |
 | **VFX** | **Custom Fruit VFX**| Change the color of your fruit's visual effects (Rainbow, Custom Transition, Static). |
 | **Automation** | **Auto Buso/Haki** | Automatically enables Armament Haki. |
-| | **Anti-AFK** | Prevents the game from kicking you for being idle. |
-| **Misc** | **Anti-Kick** | Blocks client-side kick attempts. |
+| **Misc** | **Anti-AFK** | Prevents the game from kicking you for being idle. |
+| | **Anti-Kick** | Blocks client-side kick attempts. |
 
 ---
 
