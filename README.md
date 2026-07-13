@@ -1,13 +1,13 @@
 # Blox Fruits Combat Hub - Pro Edition
 
-![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
 ---
 
 ### Introduction
 
-A comprehensive combat script for Blox Fruits, designed for high performance and maximum security. The script utilizes an advanced loader architecture to ensure stability and protect its features.
+A comprehensive combat script for Blox Fruits, designed for high performance and maximum security. This version introduces a new performance monitoring tab and a more robust loading system for enhanced stability.
 
 ---
 
@@ -26,10 +26,12 @@ A comprehensive combat script for Blox Fruits, designed for high performance and
 | | **Attribute Mods** | Water Walking, Unbreakable (Kenjutsu/Observation Haki). |
 | | **Click Teleport** | Hold a key and Left Click to teleport to the mouse position. |
 | | **Anti-Stun** | Advanced hook-based anti-stun to prevent being disabled in combat. |
-| **VFX** | **Custom Fruit VFX**| Change the color of your fruit's visual effects (Rainbow, Custom Transition, Static). |
+| **VFX** | **Custom Fruit VFX** | Change the color of your fruit's visual effects (Rainbow, Custom Transition, Static). |
+| **Performance** | **Stats Monitor** | Real-time display of FPS, Ping, Memory Usage, and Script/Game Uptime. |
 | **Automation** | **Auto Buso/Haki** | Automatically enables Armament Haki. |
-| **Misc** | **Anti-AFK** | Prevents the game from kicking you for being idle. |
-| | **Anti-Kick** | Blocks client-side kick attempts. |
+| | **Anti-AFK** | Prevents the game from kicking you for being idle. |
+| **Misc** | **Anti-Kick** | Blocks client-side kick attempts. |
+| | **Utility Loaders** | Quick access to load Dex Explorer and Infinite Yield. |
 
 ---
 
