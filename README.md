@@ -44,7 +44,7 @@ This script uses a secure loader system. You only need to execute the loader scr
 3.  Paste and execute the script.
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HashimotoAkira/HashimotoAkira-BloxFruitPvpHub/refs/heads/main/BloxFruitPvpLoader"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HashimotoAkira/BloxFruitPvpHub/refs/heads/main/BloxFruitPvpLoader"))()
 ```
 
 > **Note:** For best stability, please wait 1-2 minutes after joining the game and selecting your team before executing the script. This allows the game to fully load all assets and helps prevent potential UI conflicts or errors.
