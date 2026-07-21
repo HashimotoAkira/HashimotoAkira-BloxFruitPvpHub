@@ -1,6 +1,6 @@
 # Blox Fruits Combat Hub - Pro Edition
 
-![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.2.1-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
 ---
@@ -44,10 +44,10 @@ This script uses a secure loader system. You only need to execute the loader scr
 3.  Paste and execute the script.
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HashimotoAkira/BloxFruitPvpHub/refs/heads/main/BloxFruitPvpLoader"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HashimotoAkira/HashimotoAkira-BloxFruitPvpHub/refs/heads/main/BloxFruitPvpLoader"))()
 ```
 
-> **Note:** For best stability, please wait 1-2 minutes after joining the game and selecting your team before executing the script. This allows the game to fully load all assets and helps prevent potential UI conflicts or errors.
+> **Note:** For best stability, please wait 3-5 minutes after joining the game and selecting your team before executing the script. This allows the game to fully load all assets and helps prevent potential UI conflicts or errors. Script need about 10s to load.
 
 ---
 
